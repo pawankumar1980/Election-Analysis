@@ -61,9 +61,9 @@ with open(file_to_save, "w") as txt_file:
   
    3.  Denver had the largest voter turnout (winning counting vote: 306,855 votes) and received 82.8% of the total votes in Colorado.
    
-   ```
    
-   # 6f: Write an if statement to determine the winning county and get its vote count.
+   ```
+    # 6f: Write an if statement to determine the winning county and get its vote count.
         if (county > winning_county) and (county_percentage > winning_c_percentage):
             winning_county = county
             winning_c_candidate = county_name
