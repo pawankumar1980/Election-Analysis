@@ -37,9 +37,9 @@ with open(file_to_save, "w") as txt_file:
 ```
 
 2. Breakdown of votes won by each county and percentage total for each county in Colorado
-    a.	Jefferson – 38,855 (10.`5%`)
-    b.	Denver – 306,055 (82.`8%`)
-    c.	Arapahoe – 24,801 (6.`7%`)
+    a.	Jefferson – 38,855 (10.5%)
+    b.	Denver – 306,055 (82.8%)
+    c.	Arapahoe – 24,801 (6.7%)
     
    ``` 
 
@@ -59,7 +59,7 @@ with open(file_to_save, "w") as txt_file:
 
   ```
   
-   3.  Denver had the largest voter turnout (winning counting vote: 306,855 votes) and received 82.8% of the total votes in Colorado.
+ 3.  Denver had the largest voter turnout (winning counting vote: 306,855 votes) and received 82.8% of the total votes in Colorado.
    
    
    ```
@@ -80,7 +80,7 @@ with open(file_to_save, "w") as txt_file:
 
     ```
     
-    4.  Breakdown of votes won by each candidate and percentage of the total votes polled in Colorado.
+  4.  Breakdown of votes won by each candidate and percentage of the total votes polled in Colorado.
         a.	Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
         b.	Diana DeGette received 73.8% of the vote and 272,892 number of votes.
         c.	Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
@@ -104,7 +104,7 @@ with open(file_to_save, "w") as txt_file:
 
      ```    
      
-     5.  The winner of the election was Diana DeGette with 272,892   votes and got 73.8% of the total votes cast in the 3 counties of Colorado.
+  5.  The winner of the election was Diana DeGette with 272,892   votes and got 73.8% of the total votes cast in the 3 counties of Colorado.
      
      ```
      
